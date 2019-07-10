@@ -4,19 +4,60 @@
   
   <url>
     <loc>https://madsky.github.io/blog/</loc>
-    <lastmod>2019-07-10T11:30:17+01:00</lastmod>
+    <lastmod>2019-07-10T17:58:10+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.github.io/tags/netflix/</loc>
+    <lastmod>2019-07-10T17:58:10+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.github.io/tags/review/</loc>
+    <lastmod>2019-07-10T17:58:10+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.github.io/tags/sci-fi/</loc>
+    <lastmod>2019-07-10T17:58:10+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.github.io/tags/stranger-things/</loc>
+    <lastmod>2019-07-10T17:58:10+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.github.io/blog/stranger-things-3/</loc>
+    <lastmod>2019-07-10T17:58:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://madsky.github.io/tags/tv/</loc>
+    <lastmod>2019-07-10T17:58:10+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.github.io/tags/</loc>
+    <lastmod>2019-07-10T17:58:10+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.github.io/</loc>
+    <lastmod>2019-07-10T17:58:10+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://madsky.github.io/blog/first/</loc>
     <lastmod>2019-07-10T11:30:17+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://madsky.github.io/tags/</loc>
-    <lastmod>2019-07-10T11:30:17+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -27,12 +68,6 @@
   
   <url>
     <loc>https://madsky.github.io/tags/general/</loc>
-    <lastmod>2019-07-10T11:30:17+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://madsky.github.io/</loc>
     <lastmod>2019-07-10T11:30:17+01:00</lastmod>
     <priority>0</priority>
   </url>
