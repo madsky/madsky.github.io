@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>madsky</title>
-    <link>https://madsky.github.io/</link>
-    <description>Recent content on madsky</description>
+    <title>blog on madsky</title>
+    <link>https://madsky.github.io/tags/blog/</link>
+    <description>Recent content in blog on madsky</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>madsky - All rights reserved</copyright>
     <lastBuildDate>Wed, 10 Jul 2019 11:30:17 +0100</lastBuildDate>
     
-	<atom:link href="https://madsky.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://madsky.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
