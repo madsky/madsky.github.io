@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>madsky - All rights reserved</copyright>
-    <lastBuildDate>Wed, 10 Jul 2019 17:58:10 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2019 10:56:03 +0100</lastBuildDate>
     
 	<atom:link href="https://madsky.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Review</title>
+      <link>https://madsky.github.io/tags/review/</link>
+      <pubDate>Thu, 11 Jul 2019 10:56:03 +0100</pubDate>
+      
+      <guid>https://madsky.github.io/tags/review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>book</title>
+      <link>https://madsky.github.io/tags/book/</link>
+      <pubDate>Thu, 11 Jul 2019 10:56:03 +0100</pubDate>
+      
+      <guid>https://madsky.github.io/tags/book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>non-fiction</title>
+      <link>https://madsky.github.io/tags/non-fiction/</link>
+      <pubDate>Thu, 11 Jul 2019 10:56:03 +0100</pubDate>
+      
+      <guid>https://madsky.github.io/tags/non-fiction/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Netflix</title>
@@ -18,15 +45,6 @@
       <pubDate>Wed, 10 Jul 2019 17:58:10 +0100</pubDate>
       
       <guid>https://madsky.github.io/tags/netflix/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Review</title>
-      <link>https://madsky.github.io/tags/review/</link>
-      <pubDate>Wed, 10 Jul 2019 17:58:10 +0100</pubDate>
-      
-      <guid>https://madsky.github.io/tags/review/</guid>
       <description></description>
     </item>
     
