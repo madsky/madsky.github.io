@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>madsky - All rights reserved</copyright>
-    <lastBuildDate>Thu, 11 Jul 2019 10:56:03 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2019 16:56:44 +0100</lastBuildDate>
     
 	<atom:link href="https://madsky.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Review</title>
       <link>https://madsky.github.io/tags/review/</link>
-      <pubDate>Thu, 11 Jul 2019 10:56:03 +0100</pubDate>
+      <pubDate>Fri, 12 Jul 2019 16:56:44 +0100</pubDate>
       
       <guid>https://madsky.github.io/tags/review/</guid>
       <description></description>
@@ -24,16 +24,25 @@
     <item>
       <title>book</title>
       <link>https://madsky.github.io/tags/book/</link>
-      <pubDate>Thu, 11 Jul 2019 10:56:03 +0100</pubDate>
+      <pubDate>Fri, 12 Jul 2019 16:56:44 +0100</pubDate>
       
       <guid>https://madsky.github.io/tags/book/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>meditation</title>
+      <link>https://madsky.github.io/tags/meditation/</link>
+      <pubDate>Fri, 12 Jul 2019 16:56:44 +0100</pubDate>
+      
+      <guid>https://madsky.github.io/tags/meditation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>non-fiction</title>
       <link>https://madsky.github.io/tags/non-fiction/</link>
-      <pubDate>Thu, 11 Jul 2019 10:56:03 +0100</pubDate>
+      <pubDate>Fri, 12 Jul 2019 16:56:44 +0100</pubDate>
       
       <guid>https://madsky.github.io/tags/non-fiction/</guid>
       <description></description>
