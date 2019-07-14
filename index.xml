@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>madsky - All rights reserved</copyright>
-    <lastBuildDate>Fri, 12 Jul 2019 16:56:44 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2019 17:14:22 +0100</lastBuildDate>
     
 	<atom:link href="https://madsky.co.uk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>On Raising Kids</title>
+      <link>https://madsky.co.uk/blog/on-raising-kids/</link>
+      <pubDate>Sun, 14 Jul 2019 17:14:22 +0100</pubDate>
+      
+      <guid>https://madsky.co.uk/blog/on-raising-kids/</guid>
+      <description>I quite often find myself torn over how much entertainment to prescribe for my kids. I remember as a kid that entertainment was &amp;ldquo;going playing out&amp;rdquo;.</description>
+    </item>
     
     <item>
       <title>On Having No Head</title>
