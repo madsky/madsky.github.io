@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>podcast on madsky</title>
+    <link>https://madsky.co.uk/tags/podcast/</link>
+    <description>Recent content in podcast on madsky</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>madsky - All rights reserved</copyright>
+    <lastBuildDate>Wed, 17 Jul 2019 09:14:32 +0100</lastBuildDate>
+    
+	<atom:link href="https://madsky.co.uk/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sam Harris Making Sense Podcast 163, with Ricky Gervais</title>
+      <link>https://madsky.co.uk/blog/sam-harris-waking-up-podcast-ricky-gervais/</link>
+      <pubDate>Wed, 17 Jul 2019 09:14:32 +0100</pubDate>
+      
+      <guid>https://madsky.co.uk/blog/sam-harris-waking-up-podcast-ricky-gervais/</guid>
+      <description>I make no effort to hide the fact that I think Sam Harris is brilliant, and I&amp;rsquo;m more than happy to bend anyone&amp;rsquo;s ear about why if they&amp;rsquo;re unsure.</description>
+    </item>
+    
+  </channel>
+</rss>
