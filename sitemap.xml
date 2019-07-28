@@ -4,13 +4,42 @@
   
   <url>
     <loc>https://madsky.co.uk/blog/</loc>
-    <lastmod>2019-07-17T09:14:32+01:00</lastmod>
+    <lastmod>2019-07-28T11:07:09+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://madsky.co.uk/tags/review/</loc>
-    <lastmod>2019-07-17T09:14:32+01:00</lastmod>
+    <loc>https://madsky.co.uk/blog/goodbye-guardian/</loc>
+    <lastmod>2019-07-28T11:07:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/tags/</loc>
+    <lastmod>2019-07-28T11:07:09+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/tags/guardian/</loc>
+    <lastmod>2019-07-28T11:07:09+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/</loc>
+    <lastmod>2019-07-28T11:07:09+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/tags/newspaper/</loc>
+    <lastmod>2019-07-28T11:07:09+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/tags/woke-left/</loc>
+    <lastmod>2019-07-28T11:07:09+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -20,19 +49,13 @@
   </url>
   
   <url>
-    <loc>https://madsky.co.uk/tags/</loc>
-    <lastmod>2019-07-17T09:14:32+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://madsky.co.uk/</loc>
-    <lastmod>2019-07-17T09:14:32+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://madsky.co.uk/tags/podcast/</loc>
+    <lastmod>2019-07-17T09:14:32+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/tags/review/</loc>
     <lastmod>2019-07-17T09:14:32+01:00</lastmod>
     <priority>0</priority>
   </url>
