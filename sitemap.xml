@@ -4,7 +4,42 @@
   
   <url>
     <loc>https://madsky.co.uk/blog/</loc>
-    <lastmod>2019-07-28T11:07:09+01:00</lastmod>
+    <lastmod>2019-09-05T11:12:17+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/tags/philosophy/</loc>
+    <lastmod>2019-09-05T11:12:17+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/tags/short-story/</loc>
+    <lastmod>2019-09-05T11:12:17+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/tags/</loc>
+    <lastmod>2019-09-05T11:12:17+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/blog/the-ones-who-walk-away-from-omelas/</loc>
+    <lastmod>2019-09-05T11:12:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/tags/ursula-le-guin/</loc>
+    <lastmod>2019-09-05T11:12:17+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/</loc>
+    <lastmod>2019-09-05T11:12:17+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -14,19 +49,7 @@
   </url>
   
   <url>
-    <loc>https://madsky.co.uk/tags/</loc>
-    <lastmod>2019-07-28T11:07:09+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://madsky.co.uk/tags/guardian/</loc>
-    <lastmod>2019-07-28T11:07:09+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://madsky.co.uk/</loc>
     <lastmod>2019-07-28T11:07:09+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -44,18 +67,18 @@
   </url>
   
   <url>
-    <loc>https://madsky.co.uk/tags/review/</loc>
-    <lastmod>2019-07-17T09:14:32+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://madsky.co.uk/blog/sam-harris-waking-up-podcast-ricky-gervais/</loc>
     <lastmod>2019-07-17T09:14:32+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://madsky.co.uk/tags/podcast/</loc>
+    <lastmod>2019-07-17T09:14:32+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/tags/review/</loc>
     <lastmod>2019-07-17T09:14:32+01:00</lastmod>
     <priority>0</priority>
   </url>

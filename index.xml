@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>madsky - All rights reserved</copyright>
-    <lastBuildDate>Sun, 28 Jul 2019 11:07:09 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2019 11:12:17 +0100</lastBuildDate>
     
 	<atom:link href="https://madsky.co.uk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Ones Who Walk Away From Omelas</title>
+      <link>https://madsky.co.uk/blog/the-ones-who-walk-away-from-omelas/</link>
+      <pubDate>Thu, 05 Sep 2019 11:12:17 +0100</pubDate>
+      
+      <guid>https://madsky.co.uk/blog/the-ones-who-walk-away-from-omelas/</guid>
+      <description>Discussed on the podcast Very Bad Wizards a while back, this is an uncomfortable short story with indirect but clear parallels to the world today.</description>
+    </item>
     
     <item>
       <title>Goodbye, Guardian</title>
