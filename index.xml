@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>madsky - All rights reserved</copyright>
-    <lastBuildDate>Fri, 06 Sep 2019 15:06:14 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2019 16:15:00 +0100</lastBuildDate>
     
 	<atom:link href="https://madsky.co.uk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Wizard of Earthsea</title>
+      <link>https://madsky.co.uk/blog/a-wizard-of-earthsea/</link>
+      <pubDate>Wed, 11 Sep 2019 16:15:00 +0100</pubDate>
+      
+      <guid>https://madsky.co.uk/blog/a-wizard-of-earthsea/</guid>
+      <description>I broadly stay away from the fantasy genre in fiction because in my limited experience it tends to all add up to the same thing: a bleak, endless tapestry of anguish and torment sans reprieve - like Game of Thrones.</description>
+    </item>
     
     <item>
       <title>12 Rules for Life</title>
