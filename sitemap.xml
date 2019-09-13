@@ -3,24 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://madsky.co.uk/blog/a-wizard-of-earthsea/</loc>
-    <lastmod>2019-09-11T16:15:00+01:00</lastmod>
+    <loc>https://madsky.co.uk/blog/</loc>
+    <lastmod>2019-09-13T11:19:00+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://madsky.co.uk/blog/</loc>
-    <lastmod>2019-09-11T16:15:00+01:00</lastmod>
+    <loc>https://madsky.co.uk/tags/sviib/</loc>
+    <lastmod>2019-09-13T11:19:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://madsky.co.uk/tags/</loc>
-    <lastmod>2019-09-11T16:15:00+01:00</lastmod>
+    <lastmod>2019-09-13T11:19:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://madsky.co.uk/tags/ursula-le-guin/</loc>
+    <loc>https://madsky.co.uk/blog/whats-playing-september-2019/</loc>
+    <lastmod>2019-09-13T11:19:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/tags/inter-arma/</loc>
+    <lastmod>2019-09-13T11:19:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/</loc>
+    <lastmod>2019-09-13T11:19:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/tags/mini-review/</loc>
+    <lastmod>2019-09-13T11:19:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/tags/music/</loc>
+    <lastmod>2019-09-13T11:19:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/tags/pyramids/</loc>
+    <lastmod>2019-09-13T11:19:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/tags/tool/</loc>
+    <lastmod>2019-09-13T11:19:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/tags/whats-playing/</loc>
+    <lastmod>2019-09-13T11:19:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/blog/a-wizard-of-earthsea/</loc>
+    <lastmod>2019-09-11T16:15:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/tags/review/</loc>
     <lastmod>2019-09-11T16:15:00+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -38,13 +91,7 @@
   </url>
   
   <url>
-    <loc>https://madsky.co.uk/</loc>
-    <lastmod>2019-09-11T16:15:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://madsky.co.uk/tags/review/</loc>
+    <loc>https://madsky.co.uk/tags/ursula-le-guin/</loc>
     <lastmod>2019-09-11T16:15:00+01:00</lastmod>
     <priority>0</priority>
   </url>

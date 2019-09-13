@@ -7,17 +7,80 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>madsky - All rights reserved</copyright>
-    <lastBuildDate>Wed, 11 Sep 2019 16:15:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2019 11:19:00 +0100</lastBuildDate>
     
 	<atom:link href="https://madsky.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Ursula Le Guin</title>
-      <link>https://madsky.co.uk/tags/ursula-le-guin/</link>
+      <title>SVIIB</title>
+      <link>https://madsky.co.uk/tags/sviib/</link>
+      <pubDate>Fri, 13 Sep 2019 11:19:00 +0100</pubDate>
+      
+      <guid>https://madsky.co.uk/tags/sviib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inter arma</title>
+      <link>https://madsky.co.uk/tags/inter-arma/</link>
+      <pubDate>Fri, 13 Sep 2019 11:19:00 +0100</pubDate>
+      
+      <guid>https://madsky.co.uk/tags/inter-arma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mini review</title>
+      <link>https://madsky.co.uk/tags/mini-review/</link>
+      <pubDate>Fri, 13 Sep 2019 11:19:00 +0100</pubDate>
+      
+      <guid>https://madsky.co.uk/tags/mini-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>https://madsky.co.uk/tags/music/</link>
+      <pubDate>Fri, 13 Sep 2019 11:19:00 +0100</pubDate>
+      
+      <guid>https://madsky.co.uk/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pyramids</title>
+      <link>https://madsky.co.uk/tags/pyramids/</link>
+      <pubDate>Fri, 13 Sep 2019 11:19:00 +0100</pubDate>
+      
+      <guid>https://madsky.co.uk/tags/pyramids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tool</title>
+      <link>https://madsky.co.uk/tags/tool/</link>
+      <pubDate>Fri, 13 Sep 2019 11:19:00 +0100</pubDate>
+      
+      <guid>https://madsky.co.uk/tags/tool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>what&#39;s playing</title>
+      <link>https://madsky.co.uk/tags/whats-playing/</link>
+      <pubDate>Fri, 13 Sep 2019 11:19:00 +0100</pubDate>
+      
+      <guid>https://madsky.co.uk/tags/whats-playing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review</title>
+      <link>https://madsky.co.uk/tags/review/</link>
       <pubDate>Wed, 11 Sep 2019 16:15:00 +0100</pubDate>
       
-      <guid>https://madsky.co.uk/tags/ursula-le-guin/</guid>
+      <guid>https://madsky.co.uk/tags/review/</guid>
       <description></description>
     </item>
     
@@ -40,11 +103,11 @@
     </item>
     
     <item>
-      <title>review</title>
-      <link>https://madsky.co.uk/tags/review/</link>
+      <title>ursula le guin</title>
+      <link>https://madsky.co.uk/tags/ursula-le-guin/</link>
       <pubDate>Wed, 11 Sep 2019 16:15:00 +0100</pubDate>
       
-      <guid>https://madsky.co.uk/tags/review/</guid>
+      <guid>https://madsky.co.uk/tags/ursula-le-guin/</guid>
       <description></description>
     </item>
     
