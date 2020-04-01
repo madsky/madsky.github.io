@@ -4,18 +4,53 @@
   
   <url>
     <loc>https://madsky.co.uk/blog/</loc>
-    <lastmod>2019-09-13T11:19:00+01:00</lastmod>
+    <lastmod>2020-04-01T21:21:27+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/blog/hostnames-with-unifi-networks/</loc>
+    <lastmod>2020-04-01T21:21:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/tags/</loc>
+    <lastmod>2020-04-01T21:21:27+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/tags/unifi/</loc>
+    <lastmod>2020-04-01T21:21:27+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/tags/dhcp/</loc>
+    <lastmod>2020-04-01T21:21:27+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/</loc>
+    <lastmod>2020-04-01T21:21:27+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/tags/networking/</loc>
+    <lastmod>2020-04-01T21:21:27+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/tags/tech/</loc>
+    <lastmod>2020-04-01T21:21:27+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://madsky.co.uk/tags/sviib/</loc>
-    <lastmod>2019-09-13T11:19:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://madsky.co.uk/tags/</loc>
     <lastmod>2019-09-13T11:19:00+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -27,12 +62,6 @@
   
   <url>
     <loc>https://madsky.co.uk/tags/inter-arma/</loc>
-    <lastmod>2019-09-13T11:19:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://madsky.co.uk/</loc>
     <lastmod>2019-09-13T11:19:00+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -73,12 +102,6 @@
   </url>
   
   <url>
-    <loc>https://madsky.co.uk/tags/review/</loc>
-    <lastmod>2019-09-11T16:15:00+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://madsky.co.uk/tags/book/</loc>
     <lastmod>2019-09-11T16:15:00+01:00</lastmod>
     <priority>0</priority>
@@ -86,6 +109,12 @@
   
   <url>
     <loc>https://madsky.co.uk/tags/fiction/</loc>
+    <lastmod>2019-09-11T16:15:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://madsky.co.uk/tags/review/</loc>
     <lastmod>2019-09-11T16:15:00+01:00</lastmod>
     <priority>0</priority>
   </url>
