@@ -2,22 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on madsky</title>
-    <link>https://madsky.github.io/posts/</link>
+    <link>https://madsky.co.uk/posts/</link>
     <description>Recent content in Posts on madsky</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Sat, 06 Jul 2019 13:52:12 +0100</lastBuildDate>
+    <language>en-us</language>
+    <copyright>madsky - All rights reserved</copyright>
+    <lastBuildDate>Sun, 03 Jan 2021 19:57:16 +0000</lastBuildDate>
     
-	<atom:link href="https://madsky.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://madsky.co.uk/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>First</title>
-      <link>https://madsky.github.io/posts/first/</link>
-      <pubDate>Sat, 06 Jul 2019 13:52:12 +0100</pubDate>
+      <title>3 Weeks Off Work</title>
+      <link>https://madsky.co.uk/posts/3-weeks-off-work/</link>
+      <pubDate>Sun, 03 Jan 2021 19:57:16 +0000</pubDate>
       
-      <guid>https://madsky.github.io/posts/first/</guid>
-      <description>This was a test post for a while, until I figured out Hugo and Github Pages. I think it&amp;rsquo;s testament to how oddly difficult it has become for me to learn new thing that this has taken me a long time when all the tutorials seem so straightforward. And yet, when I looked for video tutrials so that I could actually watch people doing it &amp;lsquo;live&amp;rsquo;, it seemed like the vast majoroty of those people were just winging it too.</description>
+      <guid>https://madsky.co.uk/posts/3-weeks-off-work/</guid>
+      <description>It&amp;rsquo;s the night before I go back to work following 3 weeks off.
+The original plan was that I&amp;rsquo;d have been back from 3 weeks in Singapore and Australia about now, but obviously The &amp;lsquo;Rona has put paid to that.</description>
     </item>
     
   </channel>

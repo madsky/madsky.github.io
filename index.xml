@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>madsky - All rights reserved</copyright>
-    <lastBuildDate>Wed, 01 Apr 2020 21:21:27 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 03 Jan 2021 19:57:16 +0000</lastBuildDate>
     
 	<atom:link href="https://madsky.co.uk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3 Weeks Off Work</title>
+      <link>https://madsky.co.uk/posts/3-weeks-off-work/</link>
+      <pubDate>Sun, 03 Jan 2021 19:57:16 +0000</pubDate>
+      
+      <guid>https://madsky.co.uk/posts/3-weeks-off-work/</guid>
+      <description>It&amp;rsquo;s the night before I go back to work following 3 weeks off.
+The original plan was that I&amp;rsquo;d have been back from 3 weeks in Singapore and Australia about now, but obviously The &amp;lsquo;Rona has put paid to that.</description>
+    </item>
     
     <item>
       <title>Hostnames With Unifi Networks</title>
