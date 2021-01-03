@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://madsky.co.uk/posts/3-weeks-off-work/</loc>
+    <loc>https://madsky.co.uk/blog/3-weeks-off-work/</loc>
     <lastmod>2021-01-03T19:57:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://madsky.co.uk/posts/</loc>
+    <loc>https://madsky.co.uk/blog/</loc>
     <lastmod>2021-01-03T19:57:16+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -52,12 +52,6 @@
   <url>
     <loc>https://madsky.co.uk/tags/work/</loc>
     <lastmod>2021-01-03T19:57:16+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://madsky.co.uk/blog/</loc>
-    <lastmod>2020-04-01T21:21:27+01:00</lastmod>
     <priority>0</priority>
   </url>
   

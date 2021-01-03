@@ -6,7 +6,7 @@
 	
 	<link rel="icon" href="/images/logo.jpg">
 	
-	<title>Hostnames With Unifi Networks | madsky</title>
+	<title>3 Weeks Off Work | madsky</title>
 	
 	
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
@@ -69,19 +69,19 @@
     <p>Share</p>
     <ul>
         <li class="ml-1 mr-1">
-        <a target="_blank" href="https://twitter.com/intent/tweet?text=Hostnames%20With%20Unifi%20Networks&url=https%3a%2f%2fmadsky.co.uk%2fblog%2fhostnames-with-unifi-networks%2f" onclick="window.open(this.href, 'twitter-share', 'width=550,height=435');return false;">
+        <a target="_blank" href="https://twitter.com/intent/tweet?text=3%20Weeks%20Off%20Work&url=https%3a%2f%2fmadsky.co.uk%2fblog%2f3-weeks-off-work%2f" onclick="window.open(this.href, 'twitter-share', 'width=550,height=435');return false;">
         <i class="fab fa-twitter"></i>
         </a>
         </li>
         
         <li class="ml-1 mr-1">
-        <a target="_blank" href="https://facebook.com/sharer.php?u=https%3a%2f%2fmadsky.co.uk%2fblog%2fhostnames-with-unifi-networks%2f" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
+        <a target="_blank" href="https://facebook.com/sharer.php?u=https%3a%2f%2fmadsky.co.uk%2fblog%2f3-weeks-off-work%2f" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
         <i class="fab fa-facebook-f"></i>
         </a>
         </li>
 
         <li class="ml-1 mr-1">
-        <a target="_blank" href="https://www.xing.com/spi/shares/new?url=https%3a%2f%2fmadsky.co.uk%2fblog%2fhostnames-with-unifi-networks%2f" onclick="window.open(this.href, 'xing-share', 'width=550,height=435');return false;">
+        <a target="_blank" href="https://www.xing.com/spi/shares/new?url=https%3a%2f%2fmadsky.co.uk%2fblog%2f3-weeks-off-work%2f" onclick="window.open(this.href, 'xing-share', 'width=550,height=435');return false;">
         <i class="fab fa-xing"></i>
         </a>
         </li>        
@@ -114,9 +114,9 @@
                                 <span class="author-description">
                                     former enthusiast.<br>
                                     <i class="far fa-star"></i>
-                                    Apr 1, 2020
+                                    Jan 3, 2021
                                     <i class="far fa-clock clock"></i>
-                                    3 min read
+                                    4 min read
                                 </span>					
                             </div>
                         </div>			
@@ -124,44 +124,54 @@
                         
                                                 
                         
-                        <h1 class="posttitle">Hostnames With Unifi Networks</h1> 
+                        <h1 class="posttitle">3 Weeks Off Work</h1> 
                     </div>
 
                     
                     
-                        <img class="featured-image img-fluid" src="/usg.jpg" alt="thumbnail for this post">
+                        <img class="featured-image img-fluid" src="/arnold-wolf.jpeg" alt="thumbnail for this post">
                     
                     
                     
                     
                     <div class="article-post">
-                        <p>For what has seemed like months I&rsquo;d been plagued with rogue hostnames hitting my network devices and I&rsquo;d struggled to track it down&hellip;until today.</p>
+                        <p>It&rsquo;s the night before I go back to work following 3 weeks off.</p>
 
-<p>I was putting together a <em>really</em> hacky solution to a weird problem ages ago and set a hostname on a Raspberry Pi to be its IP address concatenated with the device name.  Something like &ldquo;1-2-3-4-MyDevice&rdquo;.  This hacky solution turned out to have more pitfalls that the problem that it was supposed to be solving, so I binned it, set the hostname back to something sensible and went about my business.</p>
+<p>The original plan was that I&rsquo;d have been back from 3 weeks in Singapore and Australia about now, but obviously The &lsquo;Rona has put paid to that.</p>
 
-<p>However, I found that the hacky hostname I&rsquo;d been using kept popping back up all the time.</p>
+<p>So instead I find myself in an odd frame of mind.</p>
 
-<p>No amount of searching around hostname setting was yielding any workable results and I was so tired of purging ARP tables and using Wireshark to track down <em>who on earth is sending out this spurious nonsense across my network</em> that I eventually gave up.</p>
+<p>I&rsquo;m not &lsquo;back&rsquo; from anywhere, but nonetheless I will be in work tomorrow after quite a while off. It&rsquo;s not that I&rsquo;m in any way dreading it, it&rsquo;s going to be fine, it&rsquo;s just that it feels odd having to get ready to return to work, when work is sat in this very chair, just using the <em>other</em> laptop for a change.</p>
 
-<p>I&rsquo;d decided that it had to be either the PiHole (<em>it&rsquo;s always DNS!</em>) or the Unifi USG running as the DHCP server, but all of the interfaces were showing that my hostnames were as I wanted them, and the spurious entries were only there in the logs to taunt me.</p>
+<p>Perhaps there&rsquo;s plenty to dread, actually. I&rsquo;ve got about 5/7s of a design to finish and new starter who I&rsquo;m going to need to help on-board properly. I&rsquo;ve also got to sign off multiple other designs from other people, set up a new tool (and build the run books for it), and then I need to complete the training courses that will mean I can do the afore-mentioned design work with a degree of authority. And that&rsquo;s just January.</p>
 
-<p>Fast forward to today and for the second time running my Mac was picking up a hostname that belonged to some kid up the road&rsquo;s Android tablet.  He hadn&rsquo;t been to our house to play with the girls for ages so what fresh hell was this?</p>
+<p>It&rsquo;s not as bad as it seems.</p>
 
-<p>I&rsquo;d recently had network issues that had caused me to have to reboot a lot of the network kit over the course of about a day and so during this all of the dhcp leases had expired and when I finally got things back it was a race for the good IPs again.</p>
+<p>I&rsquo;ve actually completed half of the training courses I need to. I was a real grown up and spent some of my 3 weeks off doing something productive.</p>
 
-<p>Enough was enough.  I could <em>pretend</em> that the indignity of my network not playing by my rules wasn&rsquo;t true when it was an obscure device I wasn&rsquo;t logged onto daily, but to infect my primary machine with this nonsense?  That I could not let pass.</p>
+<p>In fact, I&rsquo;ve spent most of that time sensibly - and it&rsquo;s sort of become my New Year&rsquo;s Resolution, only 3 weeks early. Maybe this will give me a chance of seeing some of it through.</p>
 
-<p>So I started the search where I left off and finally found out that the culprit was some bug in the Unifi USG 3 / dhcp implementation.</p>
+<p>Since we&rsquo;ve had the dog, Arnold Wolf, for a few months now, he&rsquo;s been relishing some longer and longer walks. Each day we&rsquo;ve walked him, iterating up to about 2 hours in a session, and then back down to a more comfortable 90 minutes since he wasn&rsquo;t a happy boy after the 2 hour walk. That&rsquo;s been a good grounding of exercise for the day.</p>
 
-<p>In the Unifi portal everything was still showing as fine, but given that pretty much everything else reported in the Unifi portal is <em>wildly inaccurate</em> I decided I&rsquo;d log on to the USG itself and see what was happening.</p>
+<p>Each day I spent 2 hours doing the technical training courses I needed to do. I was pretty convinced that my brain might have turned to mush had I taken 3 whole weeks off &lsquo;thinking.&rsquo;</p>
 
-<p>And there it was, plain as day.</p>
+<p>I&rsquo;ve cleared my podcast backlog too. Since I don&rsquo;t commute any more I&rsquo;ve &lsquo;lost&rsquo; 3 hours of broadly podcast time. (Oddly I don&rsquo;t feel like I&rsquo;ve &lsquo;gained&rsquo; that time anywhere though, weird that.)</p>
 
-<p>Editing the /etc/hosts file on the USG (the dhcp server) furnished me with a list of scores of entries for network devices old and new.  My spurious IP-address-name?  Check.  My recently usurped Mac name?  Check.  Multiple entries per IP address and seemingly they were given out at random - so one day my Mac would pick up its <em>real</em> hostname (that was in there too) and another day it would pick up the kid&rsquo;s Android device&rsquo;s hostname because he&rsquo;d used that address once.</p>
+<p>I also pruned it a bit. Out goes Very Bad Wizards (funny, but the content isn&rsquo;t aimed at me for the most part), Freakonomics (high quality, but decreasingly about things that are genuinely interesting to me), Wired UK (getting increasingly woke, and decreasingly well-researched), GLoP Culture (whose &ldquo;we&rsquo;re not nasty conservatives&rdquo; face mask had started to slip pretty embarsassingly), and Darknet Diaries (I&rsquo;m starting to find the host wears me down with his over-played empathy attempts).</p>
 
-<p>Grrr.</p>
+<p>In comes Andrew Doyle&rsquo;s Culture Wars, which seems to be fighting wokeness pretty well, Decoder with Nilay Patel which has had some decent tech stories, and DishCast with Andrew Sullivan (who is the second most interesting podcaster at the minute).</p>
 
-<p>A quick clean out of that list and there are no more gremlins in my network for the time being.</p>
+<p>Beyond podcasts, I completed 3 Audiobooks - The Three Body Problem, by Cixin Liu, and The Algebra of Happiness and Post Corona by Scott Galloway. Reviews to follow hopefully.</p>
+
+<p>And I also continued to go to the PT each week (that it was permitted), maintaining some semblence of a fitness routine.</p>
+
+<p>The challenge now I&rsquo;m &ldquo;back&rdquo; will be making sure that I can carve out enough time to continue to walk Arnold, to not end up with a frightening number of hours of podcasts in the backlog, and work through some of the remaining 100 or so hours of backlogged Audiobooks.</p>
+
+<p>And whilst we&rsquo;re on that too, maybe Audiobooks aren&rsquo;t necessary any more since I&rsquo;m not commuting? Maybe I can start killing trees again.</p>
+
+<p>Oh, and I grew my hair too. So I&rsquo;ve got that going for me. As my friend corrected me when I said I was entering a &ldquo;new metal phase&rdquo;, &ldquo;a new <em>tragic</em> metal phase&rdquo;.</p>
+
+<p>Quite.</p>
 
                     </div>
                     
@@ -170,19 +180,23 @@
                         <ul class="tags">
                         
                         <li>
-                        <a href="/tags/tech">tech</a>
+                        <a href="/tags/work">work</a>
                         </li>
                         
                         <li>
-                        <a href="/tags/unifi">Unifi</a>
+                        <a href="/tags/podcast">podcast</a>
                         </li>
                         
                         <li>
-                        <a href="/tags/networking">networking</a>
+                        <a href="/tags/book">book</a>
                         </li>
                         
                         <li>
-                        <a href="/tags/dhcp">dhcp</a>
+                        <a href="/tags/fitness">fitness</a>
+                        </li>
+                        
+                        <li>
+                        <a href="/tags/arnold-wolf">arnold wolf</a>
                         </li>
                         
                         </ul>
@@ -192,10 +206,8 @@
                     
                     <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
                     
-                        <a class="d-block col-md-6" href="/blog/3-weeks-off-work/"> &laquo; 3 Weeks Off Work</a>
                     
-                    
-                        <a class="d-block col-md-6 text-lg-right" href="/blog/whats-playing-september-2019/">Whats Playing September 2019 &raquo;</a>
+                        <a class="d-block col-md-6 text-lg-right" href="/blog/hostnames-with-unifi-networks/">Hostnames With Unifi Networks &raquo;</a>
                     
                     <div class="clearfix"></div>
                     </div>
