@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gaming on madsky</title>
+    <link>https://madsky.co.uk/tags/gaming/</link>
+    <description>Recent content in gaming on madsky</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>madsky - All rights reserved</copyright>
+    <lastBuildDate>Tue, 05 Jan 2021 20:11:03 +0000</lastBuildDate>
+    
+	<atom:link href="https://madsky.co.uk/tags/gaming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CoD Warzone vs PUBG</title>
+      <link>https://madsky.co.uk/blog/cod-warzone-vs-pubg/</link>
+      <pubDate>Tue, 05 Jan 2021 20:11:03 +0000</pubDate>
+      
+      <guid>https://madsky.co.uk/blog/cod-warzone-vs-pubg/</guid>
+      <description>For probably a good 2 years now I&amp;rsquo;ve been pretty much exclusively playing Playerunknown&amp;rsquo;s Battlegrounds (PUBG) on Xbox.
+I&amp;rsquo;ve played a lot of first/third person shooters over the years, but they&amp;rsquo;ve always felt really casual.</description>
+    </item>
+    
+  </channel>
+</rss>
