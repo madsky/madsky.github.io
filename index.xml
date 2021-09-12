@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>madsky</title>
@@ -7,10 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>madsky - All rights reserved</copyright>
-    <lastBuildDate>Tue, 05 Jan 2021 20:11:03 +0000</lastBuildDate>
-    
-	<atom:link href="https://madsky.co.uk/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sun, 12 Sep 2021 18:03:18 +0100</lastBuildDate><atom:link href="https://madsky.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Being Right Is Just the Beginning</title>
+      <link>https://madsky.co.uk/blog/being-right-is-just-the-beginning/</link>
+      <pubDate>Sun, 12 Sep 2021 18:03:18 +0100</pubDate>
+      
+      <guid>https://madsky.co.uk/blog/being-right-is-just-the-beginning/</guid>
+      <description>On the 8th September I was very grateful to have the opportunity to speak at my local (to my work) security/hacker conference DC151 in Leeds.</description>
+    </item>
     
     <item>
       <title>CoD Warzone vs PUBG</title>
@@ -67,7 +72,7 @@ Here are the mini-reviews ahead of my maybe publishing a full review at a later 
       <pubDate>Fri, 06 Sep 2019 15:06:14 +0100</pubDate>
       
       <guid>https://madsky.co.uk/blog/12-rules-for-life/</guid>
-      <description>Jordan Peterson has become something of an anti-hero in modern woke culture, ostensibly through his refusal to bow to trans folks&amp;rsquo; demands to refer to them by a series of invented pronouns according to their preference.</description>
+      <description>Jordan Peterson has become something of an anti-hero in modern woke culture, ostensibly through his refusal to bow to trans folks&#39; demands to refer to them by a series of invented pronouns according to their preference.</description>
     </item>
     
     <item>

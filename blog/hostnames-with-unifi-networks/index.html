@@ -2,7 +2,7 @@
 <html lang="en-us"><head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="generator" content="Hugo 0.55.6" />
+        <meta name="generator" content="Hugo 0.88.1" />
 	
 	<link rel="icon" href="/images/logo.jpg">
 	
@@ -136,31 +136,18 @@
                     
                     <div class="article-post">
                         <p>For what has seemed like months I&rsquo;d been plagued with rogue hostnames hitting my network devices and I&rsquo;d struggled to track it down&hellip;until today.</p>
-
 <p>I was putting together a <em>really</em> hacky solution to a weird problem ages ago and set a hostname on a Raspberry Pi to be its IP address concatenated with the device name.  Something like &ldquo;1-2-3-4-MyDevice&rdquo;.  This hacky solution turned out to have more pitfalls that the problem that it was supposed to be solving, so I binned it, set the hostname back to something sensible and went about my business.</p>
-
 <p>However, I found that the hacky hostname I&rsquo;d been using kept popping back up all the time.</p>
-
 <p>No amount of searching around hostname setting was yielding any workable results and I was so tired of purging ARP tables and using Wireshark to track down <em>who on earth is sending out this spurious nonsense across my network</em> that I eventually gave up.</p>
-
 <p>I&rsquo;d decided that it had to be either the PiHole (<em>it&rsquo;s always DNS!</em>) or the Unifi USG running as the DHCP server, but all of the interfaces were showing that my hostnames were as I wanted them, and the spurious entries were only there in the logs to taunt me.</p>
-
 <p>Fast forward to today and for the second time running my Mac was picking up a hostname that belonged to some kid up the road&rsquo;s Android tablet.  He hadn&rsquo;t been to our house to play with the girls for ages so what fresh hell was this?</p>
-
 <p>I&rsquo;d recently had network issues that had caused me to have to reboot a lot of the network kit over the course of about a day and so during this all of the dhcp leases had expired and when I finally got things back it was a race for the good IPs again.</p>
-
 <p>Enough was enough.  I could <em>pretend</em> that the indignity of my network not playing by my rules wasn&rsquo;t true when it was an obscure device I wasn&rsquo;t logged onto daily, but to infect my primary machine with this nonsense?  That I could not let pass.</p>
-
 <p>So I started the search where I left off and finally found out that the culprit was some bug in the Unifi USG 3 / dhcp implementation.</p>
-
 <p>In the Unifi portal everything was still showing as fine, but given that pretty much everything else reported in the Unifi portal is <em>wildly inaccurate</em> I decided I&rsquo;d log on to the USG itself and see what was happening.</p>
-
 <p>And there it was, plain as day.</p>
-
 <p>Editing the /etc/hosts file on the USG (the dhcp server) furnished me with a list of scores of entries for network devices old and new.  My spurious IP-address-name?  Check.  My recently usurped Mac name?  Check.  Multiple entries per IP address and seemingly they were given out at random - so one day my Mac would pick up its <em>real</em> hostname (that was in there too) and another day it would pick up the kid&rsquo;s Android device&rsquo;s hostname because he&rsquo;d used that address once.</p>
-
 <p>Grrr.</p>
-
 <p>A quick clean out of that list and there are no more gremlins in my network for the time being.</p>
 
                     </div>
@@ -254,6 +241,8 @@
 			
 			<a class="mt-1 mb-1" href="/tags/children">children</a>
 			
+			<a class="mt-1 mb-1" href="/tags/conference-talk">conference-talk</a>
+			
 			<a class="mt-1 mb-1" href="/tags/dhcp">dhcp</a>
 			
 			<a class="mt-1 mb-1" href="/tags/family">family</a>
@@ -267,6 +256,8 @@
 			<a class="mt-1 mb-1" href="/tags/general">general</a>
 			
 			<a class="mt-1 mb-1" href="/tags/guardian">guardian</a>
+			
+			<a class="mt-1 mb-1" href="/tags/infosec">infosec</a>
 			
 			<a class="mt-1 mb-1" href="/tags/inter-arma">inter-arma</a>
 			
