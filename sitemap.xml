@@ -2,22 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://madsky.co.uk/blog/being-right-is-just-the-beginning/</loc>
-    <lastmod>2021-09-12T18:03:18+01:00</lastmod>
-  </url><url>
     <loc>https://madsky.co.uk/blog/</loc>
+    <lastmod>2021-09-13T19:34:54+01:00</lastmod>
+  </url><url>
+    <loc>https://madsky.co.uk/tags/book/</loc>
+    <lastmod>2021-09-13T19:34:54+01:00</lastmod>
+  </url><url>
+    <loc>https://madsky.co.uk/tags/cixin-liu/</loc>
+    <lastmod>2021-09-13T19:34:54+01:00</lastmod>
+  </url><url>
+    <loc>https://madsky.co.uk/tags/fiction/</loc>
+    <lastmod>2021-09-13T19:34:54+01:00</lastmod>
+  </url><url>
+    <loc>https://madsky.co.uk/</loc>
+    <lastmod>2021-09-13T19:34:54+01:00</lastmod>
+  </url><url>
+    <loc>https://madsky.co.uk/tags/review/</loc>
+    <lastmod>2021-09-13T19:34:54+01:00</lastmod>
+  </url><url>
+    <loc>https://madsky.co.uk/tags/</loc>
+    <lastmod>2021-09-13T19:34:54+01:00</lastmod>
+  </url><url>
+    <loc>https://madsky.co.uk/tags/the-three-body-problem/</loc>
+    <lastmod>2021-09-13T19:34:54+01:00</lastmod>
+  </url><url>
+    <loc>https://madsky.co.uk/blog/the-three-body-problem-cixin-liu/</loc>
+    <lastmod>2021-09-13T19:34:54+01:00</lastmod>
+  </url><url>
+    <loc>https://madsky.co.uk/blog/being-right-is-just-the-beginning/</loc>
     <lastmod>2021-09-12T18:03:18+01:00</lastmod>
   </url><url>
     <loc>https://madsky.co.uk/tags/conference-talk/</loc>
     <lastmod>2021-09-12T18:03:18+01:00</lastmod>
   </url><url>
     <loc>https://madsky.co.uk/tags/infosec/</loc>
-    <lastmod>2021-09-12T18:03:18+01:00</lastmod>
-  </url><url>
-    <loc>https://madsky.co.uk/</loc>
-    <lastmod>2021-09-12T18:03:18+01:00</lastmod>
-  </url><url>
-    <loc>https://madsky.co.uk/tags/</loc>
     <lastmod>2021-09-12T18:03:18+01:00</lastmod>
   </url><url>
     <loc>https://madsky.co.uk/blog/cod-warzone-vs-pubg/</loc>
@@ -39,9 +57,6 @@
     <lastmod>2021-01-03T19:57:16+00:00</lastmod>
   </url><url>
     <loc>https://madsky.co.uk/tags/arnold-wolf/</loc>
-    <lastmod>2021-01-03T19:57:16+00:00</lastmod>
-  </url><url>
-    <loc>https://madsky.co.uk/tags/book/</loc>
     <lastmod>2021-01-03T19:57:16+00:00</lastmod>
   </url><url>
     <loc>https://madsky.co.uk/tags/fitness/</loc>
@@ -93,12 +108,6 @@
     <lastmod>2019-09-13T11:19:00+01:00</lastmod>
   </url><url>
     <loc>https://madsky.co.uk/blog/a-wizard-of-earthsea/</loc>
-    <lastmod>2019-09-11T16:15:00+01:00</lastmod>
-  </url><url>
-    <loc>https://madsky.co.uk/tags/fiction/</loc>
-    <lastmod>2019-09-11T16:15:00+01:00</lastmod>
-  </url><url>
-    <loc>https://madsky.co.uk/tags/review/</loc>
     <lastmod>2019-09-11T16:15:00+01:00</lastmod>
   </url><url>
     <loc>https://madsky.co.uk/tags/ursula-le-guin/</loc>
