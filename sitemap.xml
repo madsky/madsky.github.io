@@ -2,8 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://madsky.co.uk/blog/a-romance-with-violence/</loc>
+    <lastmod>2021-09-14T18:56:26+01:00</lastmod>
+  </url><url>
     <loc>https://madsky.co.uk/blog/</loc>
-    <lastmod>2021-09-13T19:34:54+01:00</lastmod>
+    <lastmod>2021-09-14T18:56:26+01:00</lastmod>
+  </url><url>
+    <loc>https://madsky.co.uk/</loc>
+    <lastmod>2021-09-14T18:56:26+01:00</lastmod>
+  </url><url>
+    <loc>https://madsky.co.uk/tags/metal/</loc>
+    <lastmod>2021-09-14T18:56:26+01:00</lastmod>
+  </url><url>
+    <loc>https://madsky.co.uk/tags/music/</loc>
+    <lastmod>2021-09-14T18:56:26+01:00</lastmod>
+  </url><url>
+    <loc>https://madsky.co.uk/tags/review/</loc>
+    <lastmod>2021-09-14T18:56:26+01:00</lastmod>
+  </url><url>
+    <loc>https://madsky.co.uk/tags/</loc>
+    <lastmod>2021-09-14T18:56:26+01:00</lastmod>
+  </url><url>
+    <loc>https://madsky.co.uk/tags/wayfarer/</loc>
+    <lastmod>2021-09-14T18:56:26+01:00</lastmod>
   </url><url>
     <loc>https://madsky.co.uk/tags/book/</loc>
     <lastmod>2021-09-13T19:34:54+01:00</lastmod>
@@ -12,15 +33,6 @@
     <lastmod>2021-09-13T19:34:54+01:00</lastmod>
   </url><url>
     <loc>https://madsky.co.uk/tags/fiction/</loc>
-    <lastmod>2021-09-13T19:34:54+01:00</lastmod>
-  </url><url>
-    <loc>https://madsky.co.uk/</loc>
-    <lastmod>2021-09-13T19:34:54+01:00</lastmod>
-  </url><url>
-    <loc>https://madsky.co.uk/tags/review/</loc>
-    <lastmod>2021-09-13T19:34:54+01:00</lastmod>
-  </url><url>
-    <loc>https://madsky.co.uk/tags/</loc>
     <lastmod>2021-09-13T19:34:54+01:00</lastmod>
   </url><url>
     <loc>https://madsky.co.uk/tags/the-three-body-problem/</loc>
@@ -87,9 +99,6 @@
     <lastmod>2019-09-13T11:19:00+01:00</lastmod>
   </url><url>
     <loc>https://madsky.co.uk/tags/mini-review/</loc>
-    <lastmod>2019-09-13T11:19:00+01:00</lastmod>
-  </url><url>
-    <loc>https://madsky.co.uk/tags/music/</loc>
     <lastmod>2019-09-13T11:19:00+01:00</lastmod>
   </url><url>
     <loc>https://madsky.co.uk/tags/pyramids/</loc>
