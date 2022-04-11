@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Madsky",
+    "description": "",
+    "home_page_url": "https://madsky.github.io",
+    "feed_url": "https://madsky.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Leigh"
+    },
+    "items": [
+        {
+            "id": "https://madsky.github.io/test-of-publii.html",
+            "url": "https://madsky.github.io/test-of-publii.html",
+            "title": "Test of Publii",
+            "summary": "This is a test post to see if I've set up Publii correctly.",
+            "content_html": "<p>This is a test post to see if I've set up Publii correctly.</p>",
+            "author": {
+                "name": "Leigh"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-04-11T11:49:01+01:00",
+            "date_modified": "2022-04-11T11:49:01+01:00"
+        }
+    ]
+}
