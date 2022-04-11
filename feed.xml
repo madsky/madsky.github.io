@@ -3,7 +3,7 @@
     <title>Madsky</title>
     <link href="https://madsky.github.io/feed.xml" rel="self" />
     <link href="https://madsky.github.io" />
-    <updated>2022-04-11T11:49:01+01:00</updated>
+    <updated>2022-04-11T11:59:42+01:00</updated>
     <author>
         <name>Leigh</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://madsky.github.io/test-of-publii.html"/>
         <id>https://madsky.github.io/test-of-publii.html</id>
+            <category term="Tech"/>
 
-        <updated>2022-04-11T11:49:01+01:00</updated>
+        <updated>2022-04-11T11:59:42+01:00</updated>
             <summary>
                 <![CDATA[
                     This is a test post to see if I've set up Publii correctly.
