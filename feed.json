@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://madsky.github.io/my-job-is-context-switching.html",
+            "url": "https://madsky.github.io/my-job-is-context-switching.html",
+            "title": "&quot;My job is context switching&quot;",
+            "summary": "Context switching - jumping between multiple tasks - is one of the things that I seek to protect my teams from. It is pretty commonly derided as a \"productivity killer\" and having been in various jobs that have demanded it I can attest to the&hellip;",
+            "content_html": "<p>Context switching - jumping between multiple tasks - is one of the things that I seek to protect my teams from. It is pretty commonly derided as a \"productivity killer\" and having been in various jobs that have demanded it I can attest to the effort that it requires to maintain for too long. And how close to the dreaded \"burn out\" you can get with it.</p>\n<p>But I've recently discovered that my job as a leader is actually all about context switching. And yet I don't feel dangerously close to burning out. What gives?</p>\n<p>I think the difference is the level of detail that we need to engage at. As an architect I was necessarily down in the detail. My job was to understand the detail of what was happening so that I could come up with viable designs, identify key risks, and enable informed decision-making.</p>\n<p>Context switching in detail comes with a huge overhead of having to get back into the detail of each new task. None of it is cursory - it's all detail work. And that process of getting back into the detail is the bit that I think constitutes the \"overhead\". I can't do the work until the overhead is covered - which takes time. So if I have to switch contexts too ofthen then all I'm doing is processing overhead and never making real progress.</p>\n<p>Now though, in my role as a leader, I've had to accept due to the scale of what my teams are involved in, being over all the detail is impossible. This was a difficult adjustment but probably a whole other blog post for another day. So, lacking that detail my need to process the overhead is a function of how well my teams are operating. I don't need the detail because I know that I've got good people who do have it. And one of the key skills that my teams need is being able to summarise their positions when they need support.</p>\n<p>I've switched out detail for context.</p>\n<p>And I think that's what makes the difference to why context switching isn't problematic and is, in fact, my job.</p>\n<p>Provided I've got people that I know are dealing with the detail. And provided I know that they can summarise to me their requirements and situations. And provided that I'm sufficiently aware of the moving parts, I can forgo the detail and context switch without burden.</p>",
+            "author": {
+                "name": "Leigh"
+            },
+            "tags": [
+                   "leadership",
+                   "Work"
+            ],
+            "date_published": "2022-11-25T22:31:54+00:00",
+            "date_modified": "2022-11-25T22:31:54+00:00"
+        },
+        {
             "id": "https://madsky.github.io/flexible-working-is-quite-hard.html",
             "url": "https://madsky.github.io/flexible-working-is-quite-hard.html",
             "title": "Flexible Working is Quite Hard",
