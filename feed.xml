@@ -151,30 +151,4 @@
             ]]>
         </content>
     </entry>
-    <entry>
-        <title>Being Right Is Just The Beginning</title>
-        <author>
-            <name>Leigh</name>
-        </author>
-        <link href="https://madsky.github.io/being-right-is-just-the-beginning.html"/>
-        <id>https://madsky.github.io/being-right-is-just-the-beginning.html</id>
-        <media:content url="https://madsky.github.io/media/posts/2/being-right.jpeg" medium="image" />
-            <category term="Tech"/>
-            <category term="Public Talk"/>
-            <category term="DC151"/>
-
-        <updated>2022-07-04T23:32:10+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://madsky.github.io/media/posts/2/being-right.jpeg" alt="" />
-                    On the 8th September I was very grateful to have the opportunity to speak at my local (to my work) security/hacker conference DC151 in Leeds. In the talk I lamented my lack of drive in pursuing purely technical content anymore (there's plenty of that in&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://madsky.github.io/media/posts/2/being-right.jpeg" class="type:primaryImage" alt="" /></p>
-                <p>On the 8th September I was very grateful to have the opportunity to speak at my local (to my work) security/hacker conference DC151 in Leeds.<br><br>In the talk I lamented my lack of drive in pursuing purely technical content anymore (there's plenty of that in my old blog, linked in my bio) instead reflecting my current career arc and giving a talk on "boring management stuff", as I prefaced.<br><br>Of course, I don't think it's boring or particularly constrained to management stuff, but that was the first layer of my subterfuge and was reflected by in the organiser's comment that DC151 hadn't seen a talk like this before.<br><br>Nice.<br><br>So anyway, this is a brief outline of my talk. Well, of my point, really, Which is actually pretty simple, all told.<br><br>The most succint summary of what I was saying has since come from the co-organiser of DC151, Glenn:<br><br>"<a href="https://twitter.com/GlennPegden/status/1437063162432524290?s=20" target="_blank" rel="noopener noreferrer">We need to stop being the smartest in the room and start being the most helpful in the room</a>."<br><br>And that really is the main point that I wanted to get across.<br><br>As an industry we're obsessed with being smart. And that's ok - good even, in the right context. But there's a whole subsection of our industry that has adopted a slightly worse interpretation of that approach wherein it's not enough to be smart, we have to be the Smartest Person In The Room.<br><br>But if you think back to all of the Smart People In The Room that you've ever had to work with, unless they've made the realisation, I expect you'll also, as I do, remember them as smart and angry.<br><br>Because they've done the research. They've put the work in. They're smart and they're right.<br><br>What's left to do?<br><br>Frustratingly, from that point of view, that's only the beginning.<br><br>Everything that you want to achieve hinges on your ability to convince other human beings of your point of view. To trade positions with them so that you each compromise what's happening in the right context so that you can get what you need and they can get what they need.<br><br>It's really obvious when written down or said out loud. But remains elusive to InfoSec professionals to this day, in my experience.<br><br>What is all too easy to forget is that we're the tail, not the dog. Most businesses don't exist to do Perfect Security, if there were such a thing. Given infinite resources and infinite time I'm sure we could endlessly iterate on what we're designing and saying such that it improves, but in the meantime we've got a requirement to make money. And InfoSec doesn't make money.<br><br>And herein lies the rub. How to get your own way in InfoSec relies on a simple economic truth: is is cheaper to do what I say, or is it more expensive?<br><br>And if you fall on the wrong side of that then you're almost never going to get your own way.<br><br>So how exactly do you make a non-revenue generating business area like InfoSec not cost money to get its own way?<br><br>This is where I revealed my final subterfuge for the DC151 crowd - not only was this a boring management talk, this was _also_ and boring Security Architecture call!<br><br>We weaponised compliance and used it in what I like to refer to as "selective relieving of friction" - we introduced a very stripped down version of a very old idea - patterns - and made them work for our audience.<br><br>The top part of the document tells an engineer what tech and processes can be used to solve a known problem with a given context. Let's say "Authentication", as an example. It explains (pictorally and in text) what the solution needs to basically look like, what technology and processes are acceptable in its implementation, and what trade-offs need to be considered.<br><br>All good. Pretty standard.<br><br>But the coup de grâce is the second page. That's where we pre-assess (and therefore effectively pre-approve) our pattern against the relevant Compliance Standards that are in place across our business.<br><br>And since Compliance is a local issue, it boils down to this:<br><br>"Do it our way, and it's free. Do it your own way and dealing with compliance is your problem"<br><br>We've tipped the balance of the scales in terms of cost. It's a _known_ cost to implement this pattern since it's just tech. If you build it yourself then not only do you have to come up with a solution you also need to go to the trouble of checking it's compliant.<br><br>All of a sudden, solving problems in the way we've selected becomes _economically viable_ compared to the other options.<br><br>So we achieve the double whammy - we're smart, and right, but we're also helpful and cheaper.<br><br>Win/win.</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
