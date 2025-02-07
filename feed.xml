@@ -3,12 +3,33 @@
     <title>Madsky</title>
     <link href="https://madsky.github.io/feed.xml" rel="self" />
     <link href="https://madsky.github.io" />
-    <updated>2025-02-04T18:13:33+00:00</updated>
+    <updated>2025-02-07T18:28:04+00:00</updated>
     <author>
         <name>Leigh</name>
     </author>
     <id>https://madsky.github.io</id>
 
+    <entry>
+        <title>Thought of the Day: Audit</title>
+        <author>
+            <name>Leigh</name>
+        </author>
+        <link href="https://madsky.github.io/thought-of-the-day-audit.html"/>
+        <id>https://madsky.github.io/thought-of-the-day-audit.html</id>
+            <category term="Work"/>
+
+        <updated>2025-02-07T18:28:04+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Frustrated practitioner who can't get anything delivered? Tired of the every day realities of time, budget, and feasibility? Have you considered a career in audit instead?
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Frustrated practitioner who can't get anything delivered? Tired of the every day realities of time, budget, and feasibility?<br><br>Have you considered a career in audit instead?</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Link Blog: Reform&#x27;s Poll Lead Changes Nothing for Labour</title>
         <author>
@@ -345,44 +366,6 @@
 <p>I've switched out detail for context.</p>
 <p>And I think that's what makes the difference to why context switching isn't problematic and is, in fact, my job.</p>
 <p>Provided I've got people that I know are dealing with the detail. And provided I know that they can summarise to me their requirements and situations. And provided that I'm sufficiently aware of the moving parts, I can forgo the detail and context switch without burden.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Flexible Working is Quite Hard</title>
-        <author>
-            <name>Leigh</name>
-        </author>
-        <link href="https://madsky.github.io/flexible-working-is-quite-hard.html"/>
-        <id>https://madsky.github.io/flexible-working-is-quite-hard.html</id>
-        <media:content url="https://madsky.github.io/media/posts/3/IMG_0490.jpeg" medium="image" />
-            <category term="Work"/>
-            <category term="Life"/>
-
-        <updated>2022-07-14T18:54:31+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://madsky.github.io/media/posts/3/IMG_0490.jpeg" alt="" />
-                    I love working from home. My commute is lovely. The coffee is consistently excellent and works out at about 17p per cup. My monitor is huge. The guy making my lunch is quite lazy which often results in my eating crisp butties, but I think&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://madsky.github.io/media/posts/3/IMG_0490.jpeg" class="type:primaryImage" alt="" /></p>
-                <p>I love working from home. My commute is lovely. The coffee is consistently excellent and works out at about 17p per cup. My monitor is huge. The guy making my lunch is quite lazy which often results in my eating crisp butties, but I think he's distracted with another job so I try to go easy on him.</p>
-<p>The office is far away. Coffee, although subsidised (and pretty decent) is a bit pricier than 17p a cup, and to be honest the monitor situation is a bit hit and miss, despite the heavy investment in a lovely new building. But there is a Juici Sushi and the GLC just round the corner and I don't even think they serve crisp butties.</p>
-<p>I'm lucky that my company have been employee-focused over the past couple of horrific years and they've been incredibly protective of us and shown a huge amount of flexibility.</p>
-<p>I remember our CEO talking early into the COVID nonsense about how he was certain that we needed to be in the office as this was our "secret sauce" but then as this looked less and less feasible, we pivoted and adopted a home-first strategy.</p>
-<p>An accident of timing meant that we were leaving a brand-new office basically empty for the most part, but everyone understood that it was the right choice for the time.</p>
-<p>As we've emerged from the worst of COVID there's been a slow return to the office - again on very flexible terms, but it's fair to say that I don't think the uptake has been huge.</p>
-<p>I'm guilty of taking the easy commute option too often. But equally I've been stung a few times when I've arranged to meet people and it has been cancelled at the last minute. My commute isn't cheap (in money or time-elapsed) but is usually worth it to get to spend some real face time with people. It's less beneficial for me to travel the 90 minutes to the office to spend 8 hours on Zoom calls whilst sat alone, and then commute home.</p>
-<p>And herein lies the difficulty - giving people flexibility seems like the obvious and right choice, but the difficultly comes when you're trying to co-ordinate getting groups and teams together. When everyone is flexible then it's hard to make and stick to firm plans.</p>
-<p>There are clear benefits from being together face to face. I wouldn't like to have planned a few of our recent projects entirely remotely, nor would having 'Zoom Beers' have been as intangibly beneficial as sitting outside a pub near the train station in the sun putting the world to rights whilst waiting for the train. </p>
-<p>So what is the answer? Everyone back in the office? Hope that technology somehow continues to improve remote working to the point that it is really like being in each other's company?</p>
-<p>I don't know. </p>
-<p>I'd like to spend time with my teams more often. I'd like to have more team meetings in a real room together. I'd like to solve minor problems over a coffee (or whilst waiting for a coffee) instead of in a Zoom meeting (in mandatory 30 minute increments). I'd like to catch someone whilst passing their desk and realise something obvious that had previously evaded me. Maybe this is what was meant by "secret sauce".</p>
-<p>But I also like my home commute, coffee, and crisp-butties. And I love having my dog with me too.</p>
-<p>I don't know. It's quite hard. But it feels like something has to change.</p>
             ]]>
         </content>
     </entry>
