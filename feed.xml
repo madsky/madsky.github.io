@@ -3,12 +3,48 @@
     <title>Madsky</title>
     <link href="https://madsky.github.io/feed.xml" rel="self" />
     <link href="https://madsky.github.io" />
-    <updated>2025-02-09T11:21:36+00:00</updated>
+    <updated>2025-02-10T08:55:47+00:00</updated>
     <author>
         <name>Leigh</name>
     </author>
     <id>https://madsky.github.io</id>
 
+    <entry>
+        <title>Link Blog: Why Blog If Nobody Reads It</title>
+        <author>
+            <name>Leigh</name>
+        </author>
+        <link href="https://madsky.github.io/link-blog-why-blog-if-nobody-reads-it.html"/>
+        <id>https://madsky.github.io/link-blog-why-blog-if-nobody-reads-it.html</id>
+            <category term="LinkBlog"/>
+            <category term="Life"/>
+
+        <updated>2025-02-10T08:55:47+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Link: https://andysblog.uk/why-blog-if-nobody-reads-it/ I'm under no illusion that I have no audience here. I don't even go to the "trouble" of putting a tracker on any of the pages. I don't invite comments or interaction. So why do I do it? The linked article is an&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Link: <a href="https://andysblog.uk/why-blog-if-nobody-reads-it/">https://andysblog.uk/why-blog-if-nobody-reads-it/</a></p>
+<p>I'm under no illusion that I have no audience here. I don't even go to the "trouble" of putting a tracker on any of the pages. I don't invite comments or interaction. So why do I do it? The linked article is an excellent summary of a lot of the reasons.</p>
+<p>A long, long time ago I used to blog little technical solutions I'd found and I had trackers on the blog. There was a pretty constant but very low stream of people coming to my blog from search engines because I had solved the exact problem they had. </p>
+<p>This trickle of people didn't make any dfference to my life - I was blogging anyway, and these were just by-products of my writing down my tech solutions and insights.</p>
+<p>One day, much later, I wrote up my reverse engineering of some malware and that got some serious traffic. It does still get consistent traffic today for some reason. But you know what? It changed nothing in my life.</p>
+<p>I also wrote something about "identity theft" and submitted it to HackerNews - it went to the front page. It received an obscene amount of traffic and a good set of interactions. But you know what? It changed nothing in my life.</p>
+<p>I then went through a period of self hosting where I blogged quite a lot about my interests but I lost most of the content in my endless shuffling of platforms. During this period I also stopped adding trackers to my blogs. I can't remember if there was a "why", I just stopped.</p>
+<p>And I still blog. I do it "blindly" to whether it's consumed or not. Occasionally someone I know mentions that they've seen somedthing I've written (not entirely sure how or why since I don't promote it) and we talk about it. But you know what? It changed nothing in my life.</p>
+<p>I still blog. Maybe a bit less than I want to, but I still do it. In a subtle way, removing the tracker code turned out to be a poignant moment - it's when I (possibly without planning) switched from external validation of my efforts to write stuff (clicks, reads, viewers) to internal validation ("I wrote it because I wanted to").</p>
+<p><em>(One thing I remember is that I briefly considered chucking my talking points into an LLM so that I could make sure "I" was churning out as much "content" as possible. What hubris! And what a close call with adding to the cancer of the modern internet.)</em></p>
+<p>That internal validation is a much cleaner way of living; it changes the pace of what I'm doing. If I don't blog, fine. If I do blog, fine. Is it poorly written? Fine. Is it so beautifully written that it's going to get me plaudits? Yeah, sure it is. But I wrote it and the act of writing - as the linked blog says - </p>
+<blockquote>
+<p>When you write, you think better. When you think better, you create better.</p>
+</blockquote>
+<p>Like and subscribe for more.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The Audacity of Sales People</title>
         <author>
@@ -352,42 +388,6 @@
 <p>Mastodon feels experimental - not only as a technology - but also a revitalisation of a means of communicating with other people with civility, grace, and good humour. </p>
 <p>One user posted the following and the brilliance of it took a little while to sink in for me, but really does cut to the crux of the matter:</p>
 <p><a href="https://tech.lgbt/@laurakm/109370867899322648" target="_blank" rel="noopener noreferrer">"Mastodon has changed how I think. Twitter now seems like a server that doesn't want to federate with anyone else, and that everyone else has blacklisted. I'm in awe of how much sense that makes."</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Creatively Stuck</title>
-        <author>
-            <name>Leigh</name>
-        </author>
-        <link href="https://madsky.github.io/creatively-stuck.html"/>
-        <id>https://madsky.github.io/creatively-stuck.html</id>
-            <category term="Work"/>
-            <category term="Music"/>
-            <category term="Life"/>
-
-        <updated>2022-11-27T12:00:53+00:00</updated>
-            <summary>
-                <![CDATA[
-                    I started a project last year. It's a creative project in my own time that requires writing, music, and artwork. It's a big ask of myself and whilst it was going well to start with, I've seemingly gotten myself stuck and can't find a way&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>I started a project last year. It's a creative project in my own time that requires writing, music, and artwork. It's a big ask of myself and whilst it was going well to start with, I've seemingly gotten myself stuck and can't find a way out.</p>
-<p>The story element to this project was written first. And that's more or less done. A couple of people have reviewed it for me and I've tweaked bits and pieces, but it's basically finished.</p>
-<p>The music element of it though - which was always going to be the hardest work - has come to a complete standstill.</p>
-<p>I was well underway with 2 of the tracks (of probably 9 in total) but I lost my creative streak and have found it tough to get back into it. Worse, in the time that it's taken me to come back round to it, I've lost the thread that I was working on and I don't really like what I've done or where it was going anymore.</p>
-<p>And so the music part is more or less back at square one.</p>
-<p>The artwork had a few high level ideas created using an AI, but I haven't really touched that. This part is not a surprise though - I've got the least skill and experience in this stuff so I expected it to be last.</p>
-<p>Why am I stuck with the music though?</p>
-<p>We ran competitions amongst friends during lockdown where we'd take a theme and dedicate a small amount of time to it - usually a week or two weeks. At the end of this period the idea was that you presented what you had. This was a huge motivator because the finite time meant that you couldn't mañana it - it had to be started right now - and the other driver was that there was nowhere near enough time to make it "perfect" - you just had to make it "good enough".</p>
-<p>I think this is where I've come unstuck with my project. I know that I've got as long as I want because I've no committed external deadline. I also know that I need to make it "perfect" - otherwise what's the point.</p>
-<p>And so I find myself creatively stuck. I don't really have the time to spare - particularly not to reach such a high bar ("perfect") and so I simply let it lapse.</p>
-<p>It's probably pretty obvious what frustrates me here: it's not the work, it's not even the problem. It's the fact that I know the solution and yet I still procrastinate.</p>
-<p>In a work context we've solved this using Agile sprints and the idea of a Minimum Viable Product (MVP). We've got 2 weeks sprints that set a series of interim deadlines and we've got a built in acceptance that we're not aiming for perfect - MVPs.</p>
-<p>If someone at work came to me with this problem I'd probably say something about "perfect being the enemy of progress" and then help them structure what they were doing into the relevant sprints and break it down into achieveable tasks.</p>
-<p>But here I sit with my very own personal version of the same problem and a whole raft of proven solutions that for some reason I can't turn into results.</p>
             ]]>
         </content>
     </entry>
