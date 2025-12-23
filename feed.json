@@ -19,9 +19,12 @@
                 "name": "Leigh"
             },
             "tags": [
+                   "Music",
+                   "Live Music",
+                   "Album Review"
             ],
             "date_published": "2025-12-23T14:37:15+00:00",
-            "date_modified": "2025-12-23T14:37:15+00:00"
+            "date_modified": "2025-12-23T15:15:15+00:00"
         },
         {
             "id": "https://madsky.github.io/deafheaven-sunbather.html",
@@ -33,9 +36,11 @@
                 "name": "Leigh"
             },
             "tags": [
+                   "Music",
+                   "Album Review"
             ],
             "date_published": "2025-03-25T18:46:01+00:00",
-            "date_modified": "2025-12-23T15:14:10+00:00"
+            "date_modified": "2025-12-23T15:15:04+00:00"
         },
         {
             "id": "https://madsky.github.io/live-gig-review-opeth-at-the-albert-hall-manchester.html",

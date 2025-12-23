@@ -3,7 +3,7 @@
     <title>Madsky</title>
     <link href="https://madsky.github.io/feed.xml" rel="self" />
     <link href="https://madsky.github.io" />
-    <updated>2025-12-23T15:14:10+00:00</updated>
+    <updated>2025-12-23T15:15:15+00:00</updated>
     <author>
         <name>Leigh</name>
     </author>
@@ -16,6 +16,9 @@
         </author>
         <link href="https://madsky.github.io/2025-in-review.html"/>
         <id>https://madsky.github.io/2025-in-review.html</id>
+            <category term="Music"/>
+            <category term="Live Music"/>
+            <category term="Album Review"/>
 
         <updated>2025-12-23T14:37:15+00:00</updated>
             <summary>
@@ -79,6 +82,8 @@
         </author>
         <link href="https://madsky.github.io/deafheaven-sunbather.html"/>
         <id>https://madsky.github.io/deafheaven-sunbather.html</id>
+            <category term="Music"/>
+            <category term="Album Review"/>
 
         <updated>2025-03-25T18:46:01+00:00</updated>
             <summary>
