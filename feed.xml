@@ -3,12 +3,37 @@
     <title>Madsky</title>
     <link href="https://madsky.github.io/feed.xml" rel="self" />
     <link href="https://madsky.github.io" />
-    <updated>2026-05-05T00:05:07+01:00</updated>
+    <updated>2026-06-02T23:04:41+01:00</updated>
     <author>
         <name>Leigh</name>
     </author>
     <id>https://madsky.github.io</id>
 
+    <entry>
+        <title>Thoughts on Graduates Getting Started in InfoSec</title>
+        <author>
+            <name>Leigh</name>
+        </author>
+        <link href="https://madsky.github.io/thoughts-on-graduates-getting-started-in-infosec.html"/>
+        <id>https://madsky.github.io/thoughts-on-graduates-getting-started-in-infosec.html</id>
+            <category term="Work"/>
+            <category term="Career Advice"/>
+            <category term="2026"/>
+
+        <updated>2026-06-02T23:04:41+01:00</updated>
+            <summary>
+                <![CDATA[
+                    I was approached again online for advice on how a recent graduate ought to go about getting started in InfoSec, and then over the weekend by fellow banner-carrier on the Whit Walks in my village turned out to be in the same boat, so I&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I was approached again online for advice on how a recent graduate ought to go about getting started in InfoSec, and then over the weekend by fellow banner-carrier on the Whit Walks in my village turned out to be in the same boat, so I shared some thoughts.</p>
+<p>Here's a summarised version in case it helps anyone break in to the InfoSec scene.</p>
+<p>My advice would be:<br><br>- Remain open to different opportunities in infosec. I've worked across nearly all disciplines in infosec and having more experience has always proven to be a big differentiator for me as I've progressed.<br><br>- If you're technically-minded, push on this and see how far you can go. There is so much to learn - and whilst you don't need to know all of it in detail, having a specialism or a deep interest can really help you progress. Stay curious! I'm sad to say that there is a recent wave of new people entering infosec who don't have a "real" interest in the craft of it. This can be a big way of standing out in a crowd. Dig deep into something and you might find that it's not only interesting, but that you come to develop a top-percentile understanding of it. I found myself reverse engineering malware once upon a time. I ended up being one of a small number of people in the industry taking apart these droppers to block their target domains - you can read about that in my old blog [0] if you like.<br><br>- If tech isn't your thing, that's ok too. There are many paths through infosec. Governance, Risk, and Compliance can touch technical but is much more focused on attention-to-detail, stakeholder management, and planning. I was recently asked about this and blogged my answer too - have a read [1].<br><br>- So-called "soft skills" are often overlooked in infosec, but this is a mistake. Take the time to build relationships, understand people, understand what drives them. Infosec professionals too often approach situations from a "right vs wrong" / "black and white" point of view. It is rarely that simple. Learn to be great at working with people. Be someone that people come to trust - someone that people see as pragmatic and sensible.<br><br>Finally, I think I would say that whilst the market can appear to be a bit flat at times there is definitely work out there. Remain humble. Be willing to work hard. Harder than the guy or girl next to you and you will stand out. Don't hold out for a "dream job" - they'll come in time. What you need is any job in infosec - however much you think it might be less than what you'd hoped. See each job as an opportunity to further widen your experience - which then works to widen your appeal to potential employers. Turn up earlier, stay later. Your superpower right now is your youth and energy - put that to work for you.<br><br>Good luck on your journey.<br><br><br><br>[0] <a class="qdkwLpsWnTOSYxQrAZCxTTPvCksjAjdckbo " target="_blank" href="https://medium.com/securitybytes/anatomy-of-a-vba-malware-dropper-fc410c6000c3" data-test-app-aware-link="" rel="noopener" tabindex="0">https://medium.com/securitybytes/anatomy-of-a-vba-malware-dropper-fc410c6000c3</a><br><br>[1] <a class="qdkwLpsWnTOSYxQrAZCxTTPvCksjAjdckbo " target="_blank" href="https://madsky.github.io/thoughts-on-getting-started-in-grc-as-a-career.html" data-test-app-aware-link="" rel="noopener" tabindex="0">https://madsky.github.io/thoughts-on-getting-started-in-grc-as-a-career.html</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>April Music Roundup</title>
         <author>
@@ -403,42 +428,6 @@
 <p>The lyrics explore some harrowing experiences and memories. And they do them justice.</p>
 <p>Put it all together with their incredible musicianship and you can either sit and enjoy the rollercoaster, or you can get lost in the textures, stories, and the anguish. The more you listen to it, the more it errs towards the latter and you slowly start to realise quite how  astonishing a record this really is. </p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Live Gig Review: Opeth at The Albert Hall, Manchester</title>
-        <author>
-            <name>Leigh</name>
-        </author>
-        <link href="https://madsky.github.io/live-gig-review-opeth-at-the-albert-hall-manchester.html"/>
-        <id>https://madsky.github.io/live-gig-review-opeth-at-the-albert-hall-manchester.html</id>
-            <category term="Music"/>
-            <category term="Live Music"/>
-
-        <updated>2025-03-08T11:07:37+00:00</updated>
-            <summary>
-                <![CDATA[
-                    My history of Opeth gigs is not great. Thinking back to when I was a dumbass kid I had a ticket to what would probably have been their Ghost Reveries tour but one of our mates didn't have a ticket and couldn't afford the tout&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>My history of Opeth gigs is not great.</p>
-<p>Thinking back to when I was a dumbass kid I had a ticket to what would probably have been their Ghost Reveries tour but one of our mates didn't have a ticket and couldn't afford the tout prices, so we all ended up selling our tickets to the touts and going to the pub instead.</p>
-<p>Some years later we went to see them on some kind of "prog nation" (?) gig with a bunch of other prog bands. Whilst we made it to this gig, sadly Mikael's health didn't and he explained he'd been ill which resulted in (a much appreciated but) very muted performance. My main memory of that gig was Dream Theater and my friend's comment, "I'm not sure if there are too many notes, or not enough time!".</p>
-<p>So anyway, back to last week.</p>
-<p>I've never been to a gig at The Albert Hall before and I have to say the acoustics in there we phenomenal. It's a huge chapel with loads of preserved original features. We ended up sat effectively behind the band which I was initially a bit upset about. I was convinced this was going to sound awful but my fears were misplaced.</p>
-<figure class="post__image"><img loading="lazy"  src="https://madsky.github.io/media/posts/19/IMG_1396.jpeg" alt="Opeth on stage at The Albert Hall in front of a big crowd" width="4032" height="3024" sizes="(max-width: 48em) 100vw, 768px" srcset="https://madsky.github.io/media/posts/19/responsive/IMG_1396-xs.jpeg 300w ,https://madsky.github.io/media/posts/19/responsive/IMG_1396-sm.jpeg 480w ,https://madsky.github.io/media/posts/19/responsive/IMG_1396-md.jpeg 768w ,https://madsky.github.io/media/posts/19/responsive/IMG_1396-lg.jpeg 1024w ,https://madsky.github.io/media/posts/19/responsive/IMG_1396-xl.jpeg 1360w ,https://madsky.github.io/media/posts/19/responsive/IMG_1396-2xl.jpeg 1600w"><figcaption>Opeth, Albert Hall Manchester, 2025</figcaption></figure>
-<p>Instead, the sound was perfect. Big, crisp, defined, and powerful. And what's more, I was sat only a few metres away from these legends watching from a really unique and interesting angle.</p>
-<p>And Opeth absolutely smashed it.</p>
-<p>I've been a bit cold on Opeth for a while now, not really enjoying their gentler, proggy, jazzy phase. Their previous 2 albums I found to be a bit impenetratable. The return of the death growls for their most recent album, <a href="https://music.apple.com/gb/album/the-last-will-and-testament/1770619023" target="_blank" rel="noopener noreferrer">Last Will and Testament</a>, piqued my interest again and so I thought I'd give it a go.</p>
-<p>Now, as it happens, I hadn't gelled with Last Will either. Not really sure why, but my experience of it was that it was a bit "flat" and, if I'm honest, proggy, jazzy, impenetrable - albeit with death growls again.</p>
-<p>So I was absolutely overjoyed to hear them play an amazing selection from their career including tracks from as far back as 1996 (The Night and the Silent Water, Morningrise), through 2001's (incredible) Blakwater Park, 2002's Deliverance, 2005's Ghost Reveries, all the way through to today. And this was all inter-mixed with a bunch of their new material in what turned out to be an awesome <a href="https://www.setlist.fm/setlist/opeth/2025/albert-hall-manchester-england-13553545.html" target="_blank" rel="noopener noreferrer">set-list</a>.</p>
-<p>The band looked like they were having a lot of fun, and Mikael just seems really comfortable doing his thing, He's a funny man and can work a crowd with or without music.</p>
-<p>As much as I loved the nostalgic tour of some old classics - The Leper Affinity in particular was exquisite - my main takeaway was that I actually quite like Last Will now, having heard half of it live, and I even enjoyed some of the stuff from their proggy, jazzy, impenetrable phase. Sorceress, in particular had never really moved me until this gig.</p>
-<p>So, it turns out, music is a bit like bacteria - it just keeps multiplying. Not only do I now need to deep dive back through Opeth's catalogue just because it reminded me of how awesome they were, but I also need to revisit the albums I've previously passed over, and I need to spend a bunch of time with Last Will and Testament.</p>
-<p>I really like how I have an uncanny knack of making things I want to do sound like chores too. My therapist has a lot of work to do.</p>
             ]]>
         </content>
     </entry>
